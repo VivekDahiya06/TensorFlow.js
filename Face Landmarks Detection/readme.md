@@ -53,7 +53,7 @@ Note :-If you close in to the Face Map you will see many points on the map which
 - Web APIs: For accessing the webcam and rendering live video.
 
 ## Live Link 🔴
-[![Netlify Status](https://api.netlify.com/api/v1/badges/51e67c23-5eea-4451-bab1-469b92cf2205/deploy-status)](https://face-landmarksdetections.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e71b73c1-23ae-4e34-b5f5-7404b91b5164/deploy-status)](https://app.netlify.com/sites/facelandmarksdetections/deploys)
 
 ## Contributing 🤝
 Contributions are welcome! To contribute:
