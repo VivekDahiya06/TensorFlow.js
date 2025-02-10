@@ -30,7 +30,7 @@ This project demonstrates real-time 3D pose estimation using advanced web techno
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Pose-Detection-Model
+   cd "Pose Detection Model"
    ```
 3. Install dependencies:
    ```bash
@@ -48,13 +48,13 @@ This project demonstrates real-time 3D pose estimation using advanced web techno
 
 ## Screenshots 📷
 ### Example of Real-Time Pose Detection
-![Pose 1](/src/assets/images/pose_1.png)
-![Pose 2](/src/assets/images/pose_2.png)
-![Pose 3](/src/assets/images/pose_3.png)
-![Pose 4](/src/assets/images/pose_4.png)
-![Pose 5](/src/assets/images/pose_5.png)
+![Pose 1](/Pose%20Detection%20Model/src/assets/images/pose_1.png)
+![Pose 2](/Pose%20Detection%20Model/src/assets/images/pose_2.png)
+![Pose 3](/Pose%20Detection%20Model/src/assets/images/pose_3.png)
+![Pose 4](/Pose%20Detection%20Model/src/assets/images/pose_4.png)
+![Pose 5](/Pose%20Detection%20Model/src/assets/images/pose_5.png)
 ### 3D Pose Visualization
-![3D Pose Visualization](/src/assets/images/blazepose_landmarks.png)
+![3D Pose Visualization](/Pose%20Detection%20Model/src/assets/images/blazepose_landmarks.png)
 
 ## Future Enhancements 🚀
 - Improve inference performance for low-powered devices.
