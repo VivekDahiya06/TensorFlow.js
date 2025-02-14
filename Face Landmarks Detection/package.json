@@ -3,26 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-=======
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
     "@mui/material": "^6.1.9",
->>>>>>> 4c0a9d1 (Added all files to git)
     "@tensorflow-models/facemesh": "^0.0.4",
     "@tensorflow/tfjs": "^4.21.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-<<<<<<< HEAD
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-=======
     "motion": "^11.12.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.3.0",
->>>>>>> 4c0a9d1 (Added all files to git)
     "react-scripts": "5.0.1",
     "react-webcam": "^7.2.0",
     "web-vitals": "^2.1.4"
@@ -37,9 +29,6 @@
     "extends": [
       "react-app",
       "react-app/jest"
-<<<<<<< HEAD
-    ]
-=======
     ],
     "rules": {
       "no-unused-vars": [
@@ -54,7 +43,6 @@
       ],
       "react-hooks/exhaustive-deps": "off"
     }
->>>>>>> 4c0a9d1 (Added all files to git)
   },
   "browserslist": {
     "production": [

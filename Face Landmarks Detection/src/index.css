@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-html,
-body,
-#root{
-=======
 /* Global Reset */
 * {
   margin: 0;
@@ -20,39 +10,39 @@ body,
 html,
 body,
 #root {
->>>>>>> 4c0a9d1 (Added all files to git)
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-<<<<<<< HEAD
   flex-flow: column wrap;
   background-color: #313030;
 }
+
 video,
-canvas{
+canvas {
   width: 640px;
   height: 480px;
   position: absolute;
   z-index: 9;
 }
-=======
-  background-color: #313030;
-}
 
 /* Webcam video and canvas styles */
 video,
 canvas {
-  position: absolute; /* Overlay the video and canvas perfectly */
+  position: absolute;
+  /* Overlay the video and canvas perfectly */
   top: 0;
   left: 0;
-  width: 100%; /* Responsive full-width */
-  height: 100%; /* Responsive full-height */
-  object-fit: cover; /* Maintain aspect ratio and cover container */
+  width: 100%;
+  /* Responsive full-width */
+  height: 100%;
+  /* Responsive full-height */
+  object-fit: cover;
+  /* Maintain aspect ratio and cover container */
 }
 
 canvas {
-  z-index: 10; /* Ensure canvas overlays the video */
+  z-index: 10;
+  /* Ensure canvas overlays the video */
 }
->>>>>>> 4c0a9d1 (Added all files to git)
