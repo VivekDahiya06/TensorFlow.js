@@ -28,4 +28,21 @@ TensorFlow.js enables machine learning directly in the browser using JavaScript.
 - Web browser (Chrome recommended for best performance)
 
 ### Installation
-1. Clone the repository:
+1. Clone the repository:-
+   ```bash
+   git clone https://github.com/VivekDahiya06/TensorFlow.js.git
+   ```
+2. Go to any directory you like.
+3. Install the dependencies:-
+   ```bash
+   npm install
+   ```
+4. Run the application:-
+   ```bash
+   npm start
+   ```
+   >Note: This app was build using React only without the use of Vite/Next.js before the Create-react-app wasn't deprecated.
+
+---
+### Contributions🤝
+  - Feel Free to fork the repo and submit any pull requests you like.
