@@ -10,16 +10,6 @@ TensorFlow.js enables machine learning directly in the browser using JavaScript.
 
 *Projects will be added here as they are developed*
 
-<!-- Example structure for future projects:
-### Project Name
-- Description: Brief overview of what the project does
-- Demo: Link to live demo
-- Key Features:
-  - Feature 1
-  - Feature 2
-- Technologies Used: TensorFlow.js, etc.
--->
-
 ## Getting Started
 
 ### Prerequisites
